@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crebit</string>
+    <string name="action_settings">Settings</string>
+    <string name="mobileNumber">Number:</string>
+    <string name="password">Password:</string>
+    <string name="newUser">New User ?</string>
+    <string name="crebitWallet">Crebit Wallet</string>
+</resources>
